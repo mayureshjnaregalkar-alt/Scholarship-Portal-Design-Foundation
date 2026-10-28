@@ -1,0 +1,8 @@
+{
+  "name": "Scholarship Portal - Indira University",
+  "description": "Comprehensive scholarship management and approval portal for Indira University students, staff, and administrators.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
